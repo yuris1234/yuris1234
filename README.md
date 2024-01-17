@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yuri, and I'
+### Hi there 👋 I'm Yuri
 
 - 🔭 I’m currently working on Kittycord, my Discord-inspired live messaging app!
 - 🌱 I’m currently learning Python!
